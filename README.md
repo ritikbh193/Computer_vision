@@ -28,4 +28,4 @@ Matplotlib
 NumPy
 Pandas (for data manipulation, if necessary)
 
-check yolo5 documentation here - [https://docs.ultralytics.com/yolov5/](url)
+check yolo5 documentation here - https://docs.ultralytics.com/yolov5/
